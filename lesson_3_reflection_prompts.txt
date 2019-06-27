@@ -1,2 +1,4 @@
 When would you want to use a remote repository rather than keeping all your work
 local?
+
+Because if we somehow lose our data from our local repository, we may have a backup repository in Github remote repository. And also it's better for the team work.
